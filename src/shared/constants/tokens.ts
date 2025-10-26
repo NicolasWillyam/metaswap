@@ -1,0 +1,167 @@
+export const TOKENS = [
+  {
+    name: "Ethereum",
+    symbol: "ETH",
+    network: "Ethereum",
+    balance: 0.8478,
+    priceUsd: 1645.93,
+    changeUsd: 45.23,
+    changePercent: 2.82,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ETH.svg",
+  },
+  {
+    name: "Bitcoin",
+    symbol: "BTC",
+    network: "Ethereum",
+    balance: 0.412,
+    priceUsd: 26002.82,
+    changeUsd: 372.15,
+    changePercent: 1.46,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/BTC.svg",
+  },
+  {
+    name: "USD Coin",
+    symbol: "USDC",
+    network: "Ethereum",
+    balance: 245.5,
+    priceUsd: 1.0,
+    changeUsd: 0.0,
+    changePercent: 0.0,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/USDC.svg",
+  },
+  {
+    name: "Binance USD",
+    symbol: "BUSD",
+    network: "BNB Chain",
+    balance: 120.32,
+    priceUsd: 0.9998,
+    changeUsd: -0.0002,
+    changePercent: -0.02,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/BUSD.svg",
+  },
+  {
+    name: "Cosmos Hub",
+    symbol: "ATOM",
+    network: "Cosmos",
+    balance: 52.8,
+    priceUsd: 7.1866,
+    changeUsd: -0.32,
+    changePercent: -4.27,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ATOM.svg",
+  },
+  {
+    name: "Osmosis",
+    symbol: "OSMO",
+    network: "Osmosis",
+    balance: 102.1,
+    priceUsd: 0.3773,
+    changeUsd: 0.008,
+    changePercent: 2.17,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/OSMO.svg",
+  },
+  {
+    name: "GMX",
+    symbol: "GMX",
+    network: "Arbitrum",
+    balance: 2.5,
+    priceUsd: 36.35,
+    changeUsd: 0.52,
+    changePercent: 1.45,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/GMX.svg",
+  },
+  {
+    name: "Kuji",
+    symbol: "KUJI",
+    network: "Kujira",
+    balance: 300.5,
+    priceUsd: 0.675,
+    changeUsd: 0.01,
+    changePercent: 1.52,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/KUJI.svg",
+  },
+  {
+    name: "Blur",
+    symbol: "BLUR",
+    network: "Ethereum",
+    balance: 540.9,
+    priceUsd: 0.2081,
+    changeUsd: -0.009,
+    changePercent: -4.15,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/BLUR.svg",
+  },
+  {
+    name: "Switcheo",
+    symbol: "SWTH",
+    network: "Neo",
+    balance: 42000.0,
+    priceUsd: 0.004,
+    changeUsd: 0.0001,
+    changePercent: 2.55,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/SWTH.svg",
+  },
+  {
+    name: "OKB",
+    symbol: "OKB",
+    network: "OKX Chain",
+    balance: 10.32,
+    priceUsd: 42.98,
+    changeUsd: 1.26,
+    changePercent: 2.95,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/OKB.svg",
+  },
+  {
+    name: "Zilliqa",
+    symbol: "ZIL",
+    network: "Zilliqa",
+    balance: 15000.45,
+    priceUsd: 0.0165,
+    changeUsd: -0.0003,
+    changePercent: -1.8,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ZIL.svg",
+  },
+  {
+    name: "IRISnet",
+    symbol: "IRIS",
+    network: "Cosmos",
+    balance: 12200.2,
+    priceUsd: 0.0177,
+    changeUsd: 0.0002,
+    changePercent: 1.12,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/IRIS.svg",
+  },
+  {
+    name: "Lido",
+    symbol: "wstETH",
+    network: "Ethereum",
+    balance: 1.102,
+    priceUsd: 1872.26,
+    changeUsd: 25.35,
+    changePercent: 1.37,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/wstETH.svg",
+  },
+  {
+    name: "Injective",
+    symbol: "INJ",
+    network: "Injective",
+    balance: 18.74,
+    priceUsd: 7.89,
+    changeUsd: 0.56,
+    changePercent: 7.64,
+    image:
+      "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/INJ.svg",
+  },
+];
