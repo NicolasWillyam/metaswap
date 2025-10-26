@@ -24,7 +24,7 @@ const RootHeader = () => {
   };
 
   return (
-    <div className="w-full fixed top-0 z-10 p-4 h-16 flex justify-between items-center">
+    <div className="w-full fixed top-0 z-10 p-4 h-16 flex justify-between items-center bg- backdrop-blur-lg">
       {/* Logo section */}
       <div
         onClick={() => navigate("/")}
